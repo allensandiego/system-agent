@@ -1,4 +1,4 @@
-package com.aensoft.systemagent;
+package com.allensandiego.systemagent;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -22,9 +22,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.aensoft.systemagent.system.Memory;
-import com.aensoft.systemagent.system.Processor;
-import com.aensoft.systemagent.system.System;
+import com.allensandiego.systemagent.system.Memory;
+import com.allensandiego.systemagent.system.Processor;
+import com.allensandiego.systemagent.system.System;
 
 import oshi.hardware.HardwareAbstractionLayer;
 import oshi.hardware.Sensors;

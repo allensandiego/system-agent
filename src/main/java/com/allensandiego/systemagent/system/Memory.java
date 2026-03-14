@@ -1,4 +1,4 @@
-package com.aensoft.systemagent.system;
+package com.allensandiego.systemagent.system;
 
 public class Memory {
 

@@ -1,4 +1,4 @@
-package com.aensoft.systemagent;
+package com.allensandiego.systemagent;
 
 import java.awt.Image;
 import java.awt.SystemTray;

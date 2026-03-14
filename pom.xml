@@ -8,7 +8,7 @@
 		<version>3.3.5</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.aensoft.systemagent</groupId>
+	<groupId>com.allensandiego.systemagent</groupId>
 	<artifactId>system-agent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>system-agent</name>
